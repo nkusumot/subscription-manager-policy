@@ -4,5 +4,6 @@
 
 - https://nkusumot.github.io/subscription-manager-policy/privacy.html
 - https://nkusumot.github.io/subscription-manager-policy/disclaimer.html
+- https://nkusumot.github.io/subscription-manager-policy/support.html
 
 GitHub Pagesはmainブランチのルートから配信します。アプリに同梱するLegalDocuments.jsonと本文を揃えて更新します。
